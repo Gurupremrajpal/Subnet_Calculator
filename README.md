@@ -1,6 +1,6 @@
 # Subnet_Calculator
 
-Display subnet information given an IP Address using a slash notation. For example, 172.169.45.56/19
+Display subnet information gave an IP Address using a slash notation. For example, 172.169.45.56/19
 <br>
 Made ✌🏻 by <a href="https://www.linkedin.com/in/guruprem-singh-rajpal-67b486122/"> Guruprem Rajpal </a>
 <br>
